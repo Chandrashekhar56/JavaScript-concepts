@@ -15,7 +15,7 @@ function child1(my)
 console.log(" ");
 //-------------------------------------------------//
 const myprop3={prop3:'value3',prop4:'value4'};
-child2({...myprop3});
+child2({...myprop3,props5:'value5'});
 
 function child2(myprop3)
 {
