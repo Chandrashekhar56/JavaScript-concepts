@@ -30,3 +30,35 @@ console.log(ob3);
 
 let ob4={...ob};
 console.log(ob4);
+
+/*{
+  person1: { name: 'shekhar1', age: 24 },
+  person2: { name: 'sachin1', age: 24 },
+  person3: { name: 'shekhar2', age: 24 },
+  person4: { name: 'sachin2', age: 24 }
+}
+//-------------------------------------------//
+{ person1: { name: 'shekhar1', age: 24 } }
+//-------------------------------------------//
+{
+  person1: { name: 'shekhar1', age: 24 },
+  person2: { name: 'sachin1', age: 24 },
+  person3: { name: 'shekhar2', age: 24 },
+  person4: { name: 'sachin2', age: 24 }
+}
+//-------------------------------------------//
+{
+  person1: { name: 'krishna', age: 24 },
+  person2: { name: 'sachin1', age: 24 },
+  person3: { name: 'shekhar2', age: 24 },
+  person4: { name: 'sachin2', age: 24 }
+}
+//-------------------------------------------//
+{
+  person1: { name: 'shekhar1', age: 24 },
+  person2: { name: 'sachin1', age: 24 },
+  person3: { name: 'shekhar2', age: 24 },
+  person4: { name: 'sachin2', age: 24 }
+}
+//-------------------------------------------//
+*/
