@@ -1,3 +1,5 @@
+
+\\=======================================================================================================\\
 const arr=[
         { firstname:"shekhar", lastname:"sati",age:"21" },
         { firstname:"sachin", lastname:"gariya",age:"23" },
@@ -12,6 +14,26 @@ console.log("Display by map\n");
 arr.map((e,index)=>{
     console.log(index+" "+e.firstname+" "+e.lastname+" "+e.age);
 });
+
+/*        output:
+
+Display by forEach
+
+0 shekhar sati 21
+1 sachin gariya 23
+2 mohit paliwal 21
+3 vijay kant 21
+
+//---------------------------------------------------//
+
+Display by map
+
+0 shekhar sati 21
+1 sachin gariya 23
+2 mohit paliwal 21
+3 vijay kant 21
+
+*/
 
 \\=======================================================================================================\\
         
@@ -48,6 +70,6 @@ value4
 1 :  value2
 2 :  value3
 3 :  value4
-
-
 */
+\\=======================================================================================================\\
+        
