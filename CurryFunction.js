@@ -24,7 +24,7 @@ console.log(curriedAdd); /*  output:  8  */
 
 \\=================================================================================================================================================\\
 
-  function curryAdd(x) {
+function curryAdd(x) {
   return function(y) {
     return function(z) {
       return x;
