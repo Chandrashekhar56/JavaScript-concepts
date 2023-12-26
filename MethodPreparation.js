@@ -5,6 +5,13 @@ foo=()=>{   return "back";  };  /*output:    undefined*/
 
 //-------------------------------------------------------------------------------------------------//
 
+var foo;
+console.log(foo);
+foo=()=>{   return "back";  }; 
+console.log(foo());  /*output:    undefined back*/
+
+//-------------------------------------------------------------------------------------------------//
+
 console.log(foo);
 var foo;
 foo=()=>{ return "back"};  /*output:    undefined */
