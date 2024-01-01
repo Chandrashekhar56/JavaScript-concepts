@@ -122,3 +122,52 @@ Emma 10
 //================================================================================================================================//
 
 
+const complexObject = {
+  school: 'ABC High School',
+  classes: {
+    math: {
+      teacher: 'Mrs. Johnson',
+      students:[
+        { name: 'Piyush', grade: 10 },
+        { name: 'Aman', grade: 11 }
+      ]
+    },
+    science: {
+      teacher: 'Mr. Smith',
+      students: [
+        { name: 'Emma', grade: 10 },
+        { name: 'Ryan', grade: 11 }
+      ]
+    }
+  },
+  extracurriculars: {
+    clubA: ['Alice', 'Bob'],
+    clubB: ['Charlie', 'Diana']
+  }
+};
+const{school,classes:{
+math:{teacher:mathTeacher,students:mathStudent},
+science:{teacher:scienceTeacher,students:scienceStudent}},
+extracurriculars:{clubA,clubB}}=complexObject;
+
+
+console.log(school);
+console.log(mathTeacher);
+console.log(mathStudent);
+console.log(scienceTeacher);
+console.log(scienceStudent);
+console.log(clubA,clubB);
+
+/*
+output:
+
+ABC High School
+Mrs. Johnson
+[ { name: 'Piyush', grade: 10 }, { name: 'Aman', grade: 11 } ]
+Mr. Smith
+[ { name: 'Emma', grade: 10 }, { name: 'Ryan', grade: 11 } ]
+[ 'Alice', 'Bob' ] [ 'Charlie', 'Diana' ]
+
+*/
+
+//================================================================================================================================//
