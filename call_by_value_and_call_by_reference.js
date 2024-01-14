@@ -12,8 +12,9 @@ console.log("Outsite: ",str1);
 /*
 output:
 
-Inside:  hello
+Inside:  change
 Outsite:  hello
+
 
 */
 
