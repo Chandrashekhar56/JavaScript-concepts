@@ -23,3 +23,22 @@ function child2(myprop3)
   console.log(myprop3.prop3);
   console.log(myprop3.prop4);
 }
+
+//------------------------------------------------------//
+let bb={name:"shekhar"};
+const cc={add:"jollgrant", contact:"901237483", email:"shekharsati56@gmail.com"};
+bb={...bb, city:"dehradun"};
+console.log(bb);
+
+//output:   { name: 'shekhar', city: 'dehradun' }
+
+//------------------------------------------------------//
+let bb={name:"shekhar"};
+const cc={add:"jollgrant", contact:"901237483", email:"shekharsati56@gmail.com"};
+bb={bb, city:"dehradun"};
+console.log(bb);
+
+//output:    { bb: { name: 'shekhar' }, city: 'dehradun' }
+
+//------------------------------------------------------//
+
