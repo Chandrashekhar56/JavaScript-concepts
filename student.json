@@ -9,7 +9,7 @@
     "class": "12th",
     "id": "S001",
     "gender": "Male",
-    "blood group": "A+"
+    "bloodGroup": "A+"
   },
   {
     "name": "Jane Smith",
@@ -21,7 +21,7 @@
     "class": "11th",
     "id": "S002",
     "gender": "Female",
-    "blood group": "B+"
+    "bloodGroup": "B+"
   },
   {
     "name": "Michael Johnson",
@@ -33,7 +33,7 @@
     "class": "12th",
     "id": "S003",
     "gender": "Male",
-    "blood group": "O+"
+    "bloodGroup": "O+"
   },
   {
     "name": "Emily Davis",
@@ -45,7 +45,7 @@
     "class": "10th",
     "id": "S004",
     "gender": "Female",
-    "blood group": "AB+"
+    "bloodGroup": "AB+"
   },
   {
     "name": "David Wilson",
@@ -57,7 +57,7 @@
     "class": "11th",
     "id": "S005",
     "gender": "Male",
-    "blood group": "A-"
+    "bloodGroup": "A-"
   },
   {
     "name": "Sophia Anderson",
@@ -69,7 +69,7 @@
     "class": "12th",
     "id": "S006",
     "gender": "Female",
-    "blood group": "B-"
+    "bloodGroup": "B-"
   },
   {
     "name": "Matthew Thomas",
@@ -81,7 +81,7 @@
     "class": "11th",
     "id": "S007",
     "gender": "Male",
-    "blood group": "O-"
+    "bloodGroup": "O-"
   },
   {
     "name": "Olivia Martinez",
@@ -93,7 +93,7 @@
     "class": "10th",
     "id": "S008",
     "gender": "Female",
-    "blood group": "AB-"
+    "bloodGroup": "AB-"
   },
   {
     "name": "Ethan Taylor",
@@ -105,7 +105,7 @@
     "class": "12th",
     "id": "S009",
     "gender": "Male",
-    "blood group": "A+"
+    "bloodGroup": "A+"
   },
   {
     "name": "Ava Hernandez",
@@ -117,7 +117,7 @@
     "class": "11th",
     "id": "S010",
     "gender": "Female",
-    "blood group": "B+"
+    "bloodGroup": "B+"
   },
   {
     "name": "Daniel Moore",
@@ -129,7 +129,7 @@
     "class": "12th",
     "id": "S011",
     "gender": "Male",
-    "blood group": "O+"
+    "bloodGroup": "O+"
   },
   {
     "name": "Mia Clark",
@@ -141,7 +141,7 @@
     "class": "10th",
     "id": "S012",
     "gender": "Female",
-    "blood group": "AB+"
+    "bloodGroup": "AB+"
   },
   {
     "name": "Alexander Rodriguez",
@@ -153,7 +153,7 @@
     "class": "11th",
     "id": "S013",
     "gender": "Male",
-    "blood group": "A-"
+    "bloodGroup": "A-"
   },
   {
     "name": "Chloe Lee",
@@ -165,7 +165,7 @@
     "class": "12th",
     "id": "S014",
     "gender": "Female",
-    "blood group": "B-"
+    "bloodGroup": "B-"
   },
   {
     "name": "William Walker",
@@ -177,7 +177,7 @@
     "class": "11th",
     "id": "S015",
     "gender": "Male",
-    "blood group": "O-"
+    "bloodGroup": "O-"
   },
   {
     "name": "Ella Lewis",
@@ -189,7 +189,7 @@
     "class": "10th",
     "id": "S016",
     "gender": "Female",
-    "blood group": "AB-"
+    "bloodGroup": "AB-"
   },
   {
     "name": "James Hall",
@@ -201,7 +201,7 @@
     "class": "12th",
     "id": "S017",
     "gender": "Male",
-    "blood group": "A+"
+    "bloodGroup": "A+"
   },
   {
     "name": "Sofia Young",
@@ -213,7 +213,7 @@
     "class": "11th",
     "id": "S018",
     "gender": "Female",
-    "blood group": "B+"
+    "bloodGroup": "B+"
   },
   {
     "name": "Benjamin King",
@@ -225,7 +225,7 @@
     "class": "12th",
     "id": "S019",
     "gender": "Male",
-    "blood group": "O+"
+    "bloodGroup": "O+"
   },
   {
     "name": "Avery Hill",
@@ -237,7 +237,7 @@
     "class": "10th",
     "id": "S020",
     "gender": "Female",
-    "blood group": "AB+"
+    "bloodGroup": "AB+"
   },
   {
     "name": "Daniel Cooper",
@@ -249,7 +249,7 @@
     "class": "11th",
     "id": "S021",
     "gender": "Male",
-    "blood group": "A-"
+    "bloodGroup": "A-"
   },
   {
     "name": "Camila Gonzalez",
@@ -261,7 +261,7 @@
     "class": "12th",
     "id": "S022",
     "gender": "Female",
-    "blood group": "B-"
+    "bloodGroup": "B-"
   },
   {
     "name": "Joseph Allen",
@@ -273,7 +273,7 @@
     "class": "11th",
     "id": "S023",
     "gender": "Male",
-    "blood group": "O-"
+    "bloodGroup": "O-"
   },
   {
     "name": "Luna Young",
@@ -285,7 +285,7 @@
     "class": "10th",
     "id": "S024",
     "gender": "Female",
-    "blood group": "AB-"
+    "bloodGroup": "AB-"
   },
   {
     "name": "Henry Hill",
@@ -297,7 +297,7 @@
     "class": "12th",
     "id": "S025",
     "gender": "Male",
-    "blood group": "A+"
+    "bloodGroup": "A+"
   },
   {
     "name": "Penelope Cooper",
@@ -309,7 +309,7 @@
     "class": "11th",
     "id": "S026",
     "gender": "Female",
-    "blood group": "B+"
+    "bloodGroup": "B+"
   },
   {
     "name": "Matthew Gonzalez",
@@ -321,7 +321,7 @@
     "class": "12th",
     "id": "S027",
     "gender": "Male",
-    "blood group": "O+"
+    "bloodGroup": "O+"
   },
   {
     "name": "Aria Allen",
@@ -333,7 +333,7 @@
     "class": "10th",
     "id": "S028",
     "gender": "Female",
-    "blood group": "AB+"
+    "bloodGroup": "AB+"
   },
   {
     "name": "Samuel Rodriguez",
@@ -345,7 +345,7 @@
     "class": "11th",
     "id": "S029",
     "gender": "Male",
-    "blood group": "A-"
+    "bloodGroup": "A-"
   },
   {
     "name": "Grace Lee",
@@ -357,7 +357,7 @@
     "class": "12th",
     "id": "S030",
     "gender": "Female",
-    "blood group": "B-"
+    "bloodGroup": "B-"
   },
   {
     "name": "Christopher Walker",
@@ -369,7 +369,7 @@
     "class": "11th",
     "id": "S031",
     "gender": "Male",
-    "blood group": "O-"
+    "bloodGroup": "O-"
   },
   {
     "name": "Zoe Lewis",
@@ -381,7 +381,7 @@
     "class": "10th",
     "id": "S032",
     "gender": "Female",
-    "blood group": "AB-"
+    "bloodGroup": "AB-"
   },
   {
     "name": "Andrew Hall",
@@ -393,7 +393,7 @@
     "class": "12th",
     "id": "S033",
     "gender": "Male",
-    "blood group": "A+"
+    "bloodGroup": "A+"
   },
   {
     "name": "Victoria Young",
@@ -405,7 +405,7 @@
     "class": "11th",
     "id": "S034",
     "gender": "Female",
-    "blood group": "B+"
+    "bloodGroup": "B+"
   },
   {
     "name": "David King",
@@ -417,6 +417,6 @@
     "class": "12th",
     "id": "S035",
     "gender": "Male",
-    "blood group": "O+"
+    "bloodGroup": "O+"
   }
 ]
